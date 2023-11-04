@@ -1,3 +1,4 @@
 fn main() {
-  println!("Hello, world!");
+  // ! means that you are calling a macro instead of a normal function and that macros don't always follow the same rules as functions.
+  println!("Hello, world!"); 
 }

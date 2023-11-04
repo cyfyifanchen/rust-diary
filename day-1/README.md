@@ -18,3 +18,11 @@ rustc 1.72.1
 ```
 
 Although `brew` installation works, but it is not recommended, so the `rustup update` won't work, don't know if this gonna be an issue later on. Maybe I need to find a way to make `rustup` work, I will see.
+
+## Hello world
+
+Nice, got the `Hello world!` working.
+
+## Hello cargo
+
+Cargo is a tool for build and dep manager, it's like Bun.
