@@ -38,3 +38,5 @@ Cargo won't generate a .gitignore file if you are already on a git repo, I thoug
 - variables are immutable by default, using `mut` making them mutable.
 - & is a reference, it's like a pointer in C.
 - Shadowing is cool, JS doesn't have it.
+- match part is quite confusing.
+- logging is better than I thought.
