@@ -26,3 +26,7 @@ Nice, got the `Hello world!` working.
 ## Hello cargo
 
 Cargo is a tool for build and dep manager, it's like Bun.
+
+## The ignore file
+
+Cargo won't generate a .gitignore file if you are already on a git repo, I thought that was a mistake, and I looked at the issues, couldn't find any issue about it, nice I could open an issue. But then I read it again, it said "cargo initialized a new Git repository", thus nvm.
