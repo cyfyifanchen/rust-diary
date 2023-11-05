@@ -1,3 +1,10 @@
+// if
 fn main() {
-    println!("Hello, world!");
+    let number = 3;
+
+    if number < 5 {
+        println!("Hello, world!");
+    } else {
+        println!("Hello, world!");
+    }
 }
