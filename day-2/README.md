@@ -19,3 +19,16 @@ spaces = spaces.len();
 ```
 
 ### Data Types
+
+The `char` type:
+
+```
+fn main() {
+    let c = 'z';
+    let z: char = `Z`; // Single quote
+}
+```
+
+Compound Types:
+
+Compound types can group multiple values into one type.
