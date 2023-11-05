@@ -40,3 +40,9 @@ Cargo won't generate a .gitignore file if you are already on a git repo, I thoug
 - Shadowing is cool, JS doesn't have it.
 - match part is quite confusing.
 - logging is better than I thought.
+
+## Recap
+
+- !: marco
+- $ is a reference.
+- Rebinding is shadowing.
